@@ -1,0 +1,2 @@
+# skeleton
+a web skeleton
